@@ -1,0 +1,243 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+
+.asosiy
+{
+    width: 1800px;
+    height: 10000px;
+    border: 5px solid black;
+    margin: 25px auto;
+    background-color: #090F1D;
+}
+.blok1
+{
+    flex-flow: horizontal;
+    width: 1512px;
+    height: 104px;
+
+    display: flex;
+    justify-content: space-between;
+    padding-top: 28px;
+    padding-right: 111px;
+    padding-bottom: 28px;
+    padding-left: 111px;
+    background: #090F1D;
+
+}
+.bolimlar
+{
+    width: 435px;
+    height: 26px;
+    display: flex;
+    margin-top: 25px;
+gap: 40px;
+}
+.bolimlar a
+{
+    display: block;
+    text-decoration: none;
+    color: white;
+}
+button{
+    width: 143px;
+    height: 48px;
+    background-color: yellow;
+    border-radius: 8px;
+    color: white;
+}
+button a 
+{
+    display: block;
+    text-decoration: none;
+    color: white;
+}
+.blok2
+{
+    width: 1512px;
+    height: 821px;
+    display: flex;
+    flex-direction: row;
+    
+}
+.blok2 .matni
+{
+    width: 544px;
+    height: 231px;
+    color: white;
+    margin-top: 50px;
+    margin-left: 50px;
+
+
+}
+.blok2 .matni h1 font{
+    color: yellow;
+}
+.blok2 .matni button
+{
+    width: 178px;
+    height: 52px;
+    border-radius: 8px;
+}
+.blok2 .matni .t1
+{
+    width: 89px;
+    height: 19px;
+    background-color: black;
+    color: white;
+}
+.blok2 .bolim1
+{
+    width: 509px;
+    height: 92px;
+    margin-left: -540px;
+    display: flex;
+    flex-direction: row;
+    float: left;
+    margin-top: 400px;
+}
+.blok2 .bolim1 .a
+{
+    width: 128px;
+    height: 92px;
+    border-right: 2px solid yellow;
+    color: yellow;
+
+}
+.blok2 .bolim1 .a p
+{
+    color: white;
+}.blok2 .rasm
+{
+    width: 524px;
+    height: 544px;
+margin-left: 530px;
+margin-top: 50px    ;    
+}
+.blok3
+{
+    width: 1512px;
+    height: 862px;
+    
+}
+.blok3 .matn1
+{
+    width: 1290px;
+    height: 116px;
+
+margin-top: 40px;
+margin-left: 50px;
+color: white;
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+}
+.blok3 .matn1 h1 font
+{
+    color:  yellow;
+}
+.blok3 .matn1  h1
+{
+    display: block;
+}
+.blok3 button
+{
+    width: 134px;
+    height: 52px;
+    color: white;
+    margin-top: 70px;
+}
+.abduqodr
+{
+    width: 410px;
+    height: 498px;
+    display: flex;
+    flex-direction: row;
+}
+.card
+{
+    width: 410px;
+    height: 498px;
+    border-radius: 28px;
+    background-color: #131E3A;
+    margin-left: 50px;
+    color: white;
+}
+.blok4
+{
+    width: 1512px;
+    height: 743px;
+    
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+}
+.alo
+{
+    width: 426px;
+    height: 280px;
+    
+    margin-top: 50px;
+    margin-left: 30px;
+    color: white;
+}
+.alo h1 font
+{
+    color: yellow;
+}
+.alo button
+{
+    margin-top: 80px;
+}
+.alo .t1
+{
+    width: 176px;
+    height: 52px;
+    color: white;
+    background-color: black;
+}
+.r
+{
+    width: 740px;
+    height: 650px;
+    
+    display: flex;
+    flex-direction: row;
+}
+.r .warapat
+{
+    margin-top: 50px;
+    margin-right: -40px;
+    z-index: 1;
+}
+.blok5
+{
+    width: 1512px;
+    height: 1016px;
+    margin: 20px auto;
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+}
+.blok5 .ali
+{
+    width: 1227px;
+    height: 116px;
+    margin: 25px auto;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+}
+.blok5 .ali  h1 font
+{
+    color: yellow;
+}
+.img
+{
+    width: 850px;
+    height: 652px;
+    margin: 25px auto;
+}
